@@ -90,7 +90,7 @@ if __name__ == '__main__':
             main()
 
     except Exception as e:
-        print("Sorry, an error occurred. Did you inputing information again.")
+        print("Sorry, an error occurred. Did you try inputing information again.")
         print(e)
     finally:
         pass
