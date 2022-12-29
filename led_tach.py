@@ -17,7 +17,7 @@ server.bind((local_ip, port_no))
 
 
 #Binding leds to GPIO pins
-led10 = LED(26)
+led10 = LED(2)
 led9 = LED(3)
 led8 = LED(4)
 led7 = LED(5)
