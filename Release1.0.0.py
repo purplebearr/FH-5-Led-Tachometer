@@ -98,7 +98,7 @@ def main():
         maxRPM = (data[2])
         currentRPM = (data[4])
 
-        # checking if the player is in game first, if player is in menu maxRPM will be equal to zero and cause an error
+        #Checking if the player is in game first, if player is in menu maxRPM will be equal to zero and cause an error
         if maxRPM > 0:
             percentage_tach = currentRPM / maxRPM * 100 #calculations
 
