@@ -4,6 +4,8 @@ To use, enable data out in Forza under "Hud and Gameplay". Make sure wiring is c
 
 Requirements: Raspberry Pi with GPIO pins attached (Raspberry Pi Zero W or better), 10x LEDs, 10x Resistors, wires, and breadboard if you so desire.
 
+In my build, the following components were used: Raspberry Pi Zero W with GPIO pins attached, 12x wires, 6x green led, 2x yellow led, 2x red led, 10x 1k ohm resistor, and a breadboard (though technically optional).
+
 Video Demonstration: -> https://www.youtube.com/watch?v=b6YtOGRcKpU
 
 Credit to Michael K. and his blog for information about the data formats. Link -> https://medium.com/@makvoid/building-a-digital-dashboard-for-forza-using-python-62a0358cb43b
