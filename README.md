@@ -6,6 +6,6 @@ Requirements: Raspberry Pi with GPIO pins attached (Raspberry Pi Zero W or bette
 
 In my build, the following components were used: Raspberry Pi Zero W with GPIO pins attached, 12x wires, 6x green led, 2x yellow led, 2x red led, 10x 1k ohm resistor, and a breadboard. See more details in the wiring diagram.
 
-Video Demonstration: -> https://www.youtube.com/watch?v=b6YtOGRcKpU
+Video Demonstration: -> https://www.youtube.com/watch?v=xUY6LU_6vyo
 
 Credit to Michael K. and his blog for information about the data formats. Link -> https://medium.com/@makvoid/building-a-digital-dashboard-for-forza-using-python-62a0358cb43b
